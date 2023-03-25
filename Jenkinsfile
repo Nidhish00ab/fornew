@@ -15,7 +15,7 @@ pipeline {
 
     stage('build') {
       steps {
-        sh 'docker build -f fornew/Dockerfile .'
+        sh 'docker build -t fornew/Dockerfile .'
       }
     }
 
