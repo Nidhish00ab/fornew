@@ -15,7 +15,7 @@ pipeline {
 
     stage('build') {
       steps {
-        sh 'echo \'Nidhish\' | sudo -S docker build -t fornew/Dockerfile .'
+        sh 'sudo  docker build -t fornew/Dockerfile .'
       }
     }
 
