@@ -1,2 +1,2 @@
 
-print("Hello World nidhish")
+print("nidhish")
