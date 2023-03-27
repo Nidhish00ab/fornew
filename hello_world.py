@@ -1,3 +1,2 @@
 
-print("Hello World")
-print("nidhish.s")
+print("Hello World nidhish")
