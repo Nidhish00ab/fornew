@@ -1,2 +1,2 @@
 
-print("nidhish@00ab18@gmail")
+print("nidhish@00ab18@gmail.com")
